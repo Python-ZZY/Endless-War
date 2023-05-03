@@ -1,0 +1,6 @@
+战斗胜利会获得一定奖杯，失败会扣除一定奖杯（派对模式除外）||Press P to pause the battle at any time
+部分兵种具有附带技能，无需派出该兵种即可使用||Some soldiers have special attacks
+投石车、攻城弩、黄金加农炮只能攻击距离较远的目标||Catapults, siege crossbows, and golden cannons can only attack targets at a distance
+法师类兵种血量较低，但狂暴后很厉害||Mages have low health, but are excellent after rage
+使用飓风将攻击距离较远的兵种卷到栅栏处，可以使栅栏对其造成伤害||You can use a hurricane to roll a unit at a distance up to a fence, causing the fence to deal damage to it
+法术无法伤害栅栏||Spells cannot damage fences

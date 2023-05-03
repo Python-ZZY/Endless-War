@@ -1,0 +1,788 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2023-05-01 15:19+0800\n"
+"PO-Revision-Date: 2023-05-03 16:24+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Poedit-SearchPath-0: units.py\n"
+"X-Poedit-SearchPath-1: base.py\n"
+"X-Poedit-SearchPath-2: battle.py\n"
+"X-Poedit-SearchPath-3: configs.py\n"
+"X-Poedit-SearchPath-4: battle_fun.py\n"
+"X-Poedit-SearchPath-5: menu.py\n"
+
+#: battle.py:25
+msgid "失 败"
+msgstr "Defeat"
+
+#: battle.py:28
+msgid "胜 利"
+msgstr "Victory"
+
+#: battle.py:31
+msgid "平 局"
+msgstr "Dogfall"
+
+#: battle.py:45
+msgid "按ESC键离开"
+msgstr "Press <ESC> to go back"
+
+#: battle.py:85
+msgid "现在，开始进攻！"
+msgstr "Game on now!"
+
+#: battle.py:86 battle.py:87 battle.py:88
+msgid "倒计时{}秒"
+msgstr "Match Over in {} s"
+
+#: battle.py:89
+msgid "时间到"
+msgstr "Time is up"
+
+#: battle.py:99
+msgid "- 按P键取消暂停 -"
+msgstr "Press <P> to cancel the pause"
+
+#: battle.py:315
+msgid "攻破敌阵"
+msgstr "Broke through the line"
+
+#: battle_fun.py:22
+msgid "这里是操作区，您可以选择士兵并派出他们"
+msgstr ""
+"This is the operation area where you can select soldiers and dispatch them"
+
+#: battle_fun.py:26
+msgid "这里显示对局的提示信息"
+msgstr "Here is  the information of the game"
+
+#: battle_fun.py:30
+msgid "红条指示血量，当士兵攻过对方的阵线底部将会对敌方造成伤害"
+msgstr ""
+"The red bar indicates the health points, and when the soldier attacks the "
+"bottom of the opponent's line it will deal damage to the enemy"
+
+#: battle_fun.py:34
+msgid "蓝条指示能量，派出士兵将会消耗能量"
+msgstr "Blue bar indicates energy, sending soldiers will consume energy"
+
+#: battle_fun.py:38
+msgid "部分兵种具有附带技能，不要忘记使用！"
+msgstr "Some soldiers have skills (Don't forget to use!)"
+
+#: battle_fun.py:42
+msgid "每个士兵卡牌右下角的数字提示士兵所需的能量"
+msgstr ""
+"The number in the lower right corner of each soldier card indicates the "
+"amount of energy required for the soldier"
+
+#: battle_fun.py:46
+msgid "现在，尝试选中一位士兵！"
+msgstr "Now, try to select a soldier!"
+
+#: battle_fun.py:55
+msgid "非常好！现在选择一条道路派出士兵（注意士兵是不能走到别的道路上的）"
+msgstr ""
+"Very good! Now choose a path to send soldiers (note that soldiers cannot go "
+"to other paths)"
+
+#: battle_fun.py:70
+msgid "您可以滚动鼠标或使用方向键滚动地图"
+msgstr "You can scroll the mouse or use the arrow keys to scroll the map"
+
+#: battle_fun.py:74
+msgid "也可以直接在小地图上选中区域"
+msgstr "Also, it's ok to select an area on the minimap"
+
+#: battle_fun.py:74
+msgid "尝试让士兵突破对方的阵线"
+msgstr "Try to get soldiers to break through the opposing line"
+
+#: battle_fun.py:85
+msgid "游戏进行时，您可以随时按下P键暂停游戏"
+msgstr "You can press <P> to pause the game at any time"
+
+#: battle_fun.py:138
+msgid "层层设防模式"
+msgstr "Barricade Mode"
+
+#: battle_fun.py:138
+msgid "战场上栅栏数量增加"
+msgstr "The number of barricades increased on the battlefield"
+
+#: battle_fun.py:162
+msgid "经典模式"
+msgstr "Classic Mode"
+
+#: battle_fun.py:162
+msgid "融合多种玩法的公平战斗模式"
+msgstr "A fair battle mode with multiple modes"
+
+#: battle_fun.py:190
+msgid "双倍能量对战"
+msgstr "Double Energy Mode"
+
+#: battle_fun.py:190
+msgid "获得能量的速度翻倍"
+msgstr "The rate of energy gain is doubled"
+
+#: battle_fun.py:196
+msgid "能量狂欢"
+msgstr "Energy Party"
+
+#: battle_fun.py:196
+msgid "获得能量的速度翻倍，每经过10秒双方各自派出一排能量精灵"
+msgstr ""
+"Double the speed at which you gain energy, and each side sends out a row of "
+"energy sprites every 10 seconds"
+
+#: battle_fun.py:207
+msgid "蛮兵入侵"
+msgstr "Barbarian Invasion"
+
+#: battle_fun.py:207
+msgid ""
+"每过一段时间，双方各自派出一排野蛮人士兵，蛮兵具有比普通士兵更强的战斗力"
+msgstr ""
+"At intervals, each side sent a platoon of barbarian soldiers, who were more "
+"effective than ordinary soldiers"
+
+#: battle_fun.py:210
+msgid "倒计时180秒  野蛮象兵加入战场"
+msgstr "Match Over in {} s"
+
+#: battle_fun.py:221
+msgid "随机轰炸模式"
+msgstr "Random Bombing Mode"
+
+#: battle_fun.py:221
+msgid "每过一段时间，战场上就会落下20颗霹雳弹"
+msgstr "Every once in a while, 20 thunder bombs fall on the battlefield"
+
+#: battle_fun.py:230
+msgid "战斗机器世界"
+msgstr "World of Battle Machines"
+
+#: battle_fun.py:230
+msgid "每经过25秒，双方各自派出一排攻城弩、投石车、加农炮或黄金加农炮"
+msgstr ""
+"Every 25 seconds, each side sends out a line of siege crossbows, trebuchets, "
+"cannons or golden cannons"
+
+#: battle_fun.py:239
+msgid "克隆战场"
+msgstr "Clone Mode"
+
+#: battle_fun.py:239
+msgid "每过一段时间，随机克隆20个区域"
+msgstr "Every once in a while, randomly clone 20 regions"
+
+#: battle_fun.py:245
+msgid "冰火二重天"
+msgstr "Flame-Freeze Mode"
+
+#: battle_fun.py:245
+msgid "每过一段时间，随机冰冻或燃烧10个区域"
+msgstr "Every once in a while, randomly freeze or burn 10 areas"
+
+#: battle_fun.py:253
+msgid "战斗乐园"
+msgstr "Battle Paradise"
+
+#: battle_fun.py:253
+msgid "每过一段时间，双方各自派出一排战兵、弓箭手、盾兵、矛兵或超级士兵"
+msgstr ""
+"At intervals, each side sends a platoon of soldiers, archers, shield "
+"infantries, spearmen, or super infantries"
+
+#: battle_fun.py:261
+msgid "法师派对"
+msgstr "Mage Party"
+
+#: battle_fun.py:261
+msgid "每过一段时间，双方各自派出一排雷电法师、寒冰法师、飓风法师或五行战士"
+msgstr ""
+"Every once in a while, each side sends out a platoon of lightning mages, ice "
+"mages, hurricane mages, or 5E mages"
+
+#: battle_fun.py:271
+msgid "迷雾之地"
+msgstr "Misty Land"
+
+#: battle_fun.py:271
+msgid "远程攻击类兵种精准度变差，且会定时落下闪电"
+msgstr ""
+"Ranged attack soldiers are less accurate, and lightning regularly falls on "
+"the battlefield"
+
+#: battle_fun.py:293
+msgid "狂暴对战"
+msgstr "Rage Mode"
+
+#: battle_fun.py:293
+msgid "所有士兵（除法师）将持续处于狂暴状态"
+msgstr "All soldiers (except mages) will remain in rage"
+
+#: configs.py:148
+msgid "战争风云"
+msgstr "Endless War"
+
+#: configs.py:200
+msgid "战斗胜利会获得一定奖杯，失败会扣除一定奖杯（派对模式除外）"
+msgstr ""
+"Increase scores if you win, decrease scores if you lose (except party mode)"
+
+#: configs.py:201
+msgid "部分兵种具有附带技能，无需派出该兵种即可使用"
+msgstr "Some soldiers have skills"
+
+#: configs.py:202
+msgid "投石车、攻城弩、黄金加农炮只能攻击距离较远的目标"
+msgstr "Siege Crossbows can only attack distant targets"
+
+#: configs.py:203
+msgid "法师类兵种血量较低，但狂暴后很厉害"
+msgstr "Mages have low health, but are excellent after rage"
+
+#: configs.py:204
+msgid "使用飓风将攻击距离较远的兵种卷到栅栏处，可以使栅栏对其造成伤害"
+msgstr ""
+"You can use a hurricane to roll a unit at a distance up to a fence, causing "
+"the fence to deal damage to it"
+
+#: configs.py:205
+msgid "法术无法伤害栅栏"
+msgstr "Spells cannot damage fences"
+
+#: configs.py:206
+msgid "按P键可以暂停战斗"
+msgstr "Press <P> to pause the battle"
+
+#: menu.py:36
+msgid "游戏提示："
+msgstr "Tip:"
+
+#: menu.py:135
+msgid "奖杯"
+msgstr "Score"
+
+#: menu.py:172 menu.py:258 menu.py:363
+msgid "返回"
+msgstr "Back"
+
+#: menu.py:172 menu.py:258 menu.py:363
+msgid "点击回到主菜单"
+msgstr "Click to return to the main menu"
+
+#: menu.py:268
+msgid "派对模式中，您无需担心自己的奖杯"
+msgstr "In party mode, you don't have to worry about your score"
+
+#: menu.py:268
+msgid "因为派对模式不会记录您的输赢"
+msgstr "Because party mode doesn't keep track of your wins and losses"
+
+#: menu.py:269
+msgid "您可以滚动鼠标自行查看派对模式的其他玩法"
+msgstr "You can scroll your mouse to see the other modes to play for yourself"
+
+#: menu.py:272
+msgid "点击进入战斗"
+msgstr "Click to enter the battle"
+
+#: menu.py:365
+msgid "随机卡组"
+msgstr "Random Deck"
+
+#: menu.py:365
+msgid "点击随机生成士兵卡组"
+msgstr "Click to generate a random soldier deck"
+
+#: menu.py:372
+msgid "您可以在军营管理士兵卡组"
+msgstr "You can manage soldier decks in the barracks"
+
+#: menu.py:372
+msgid "点击兵种的图标可以卸下/装备该兵种"
+msgstr ""
+"Click on the icon of a soldier type to unload/equip that type of soldier"
+
+#: menu.py:373
+msgid "部分兵种在达到一定要求后才能解锁"
+msgstr ""
+"Some types of soldiers can only be unlocked after reaching certain "
+"requirements"
+
+#: menu.py:375
+msgid "点击这个按钮可以随机生成卡组（虽然这没有必要）"
+msgstr ""
+"Click this button to randomly generate the deck (although it is not "
+"necessary)"
+
+#: menu.py:397 menu.py:477
+msgid "未解锁"
+msgstr "Unlocked"
+
+#: menu.py:398
+#, python-format
+msgid "奖杯数达到%d后解锁"
+msgstr "Unlock after reaching %d scores"
+
+#: menu.py:401
+msgid "类型"
+msgstr "Type"
+
+#: menu.py:401
+msgid "战斗单位"
+msgstr "Unit"
+
+#: menu.py:401
+msgid "法术"
+msgstr "Spell"
+
+#: menu.py:402
+msgid "消耗能量"
+msgstr "Energy Cost"
+
+#: menu.py:403
+msgid "冷却时间"
+msgstr "CD Time"
+
+#: menu.py:405
+msgid "速度"
+msgstr "Speed"
+
+#: menu.py:406
+msgid "血量"
+msgstr "Health"
+
+#: menu.py:407
+msgid "破阵伤害"
+msgstr "Pass Damage"
+
+#: menu.py:409
+msgid "范围"
+msgstr "Range"
+
+#: menu.py:424
+msgid "附加技能: "
+msgstr "Skill: "
+
+#: menu.py:447 menu.py:580
+msgid "军队数量不足"
+msgstr "The number of cards is not enough!"
+
+#: menu.py:475
+msgid "军队数量已达上限"
+msgstr "You have reached your maximum number of cards"
+
+#: menu.py:513
+msgid "战地"
+msgstr "Battleground"
+
+#: menu.py:513
+msgid "点击匹配对手"
+msgstr "Click to match opponent"
+
+#: menu.py:515
+msgid "派对 !"
+msgstr "Party !"
+
+#: menu.py:515
+msgid "点击参加更多玩法"
+msgstr "Click to take part in more game modes"
+
+#: menu.py:517
+msgid "军营"
+msgstr "Barrack"
+
+#: menu.py:517
+msgid "点击管理军队卡牌"
+msgstr "Click to manage your deck"
+
+#: menu.py:519
+msgid "日志"
+msgstr "Log"
+
+#: menu.py:519
+msgid "点击查看游戏日志信息，请及时向创作者反馈遇到的bug"
+msgstr ""
+"Click to view the game log information, and please feedback to the creator "
+"encountered bugs"
+
+#: menu.py:522
+msgid "信息"
+msgstr "Credits"
+
+#: menu.py:522
+msgid "点击查看游戏创作者及素材来源"
+msgstr "Check out the creators of game and resources"
+
+#: menu.py:524
+msgid "退出"
+msgstr "Exit"
+
+#: menu.py:524
+msgid "点击离开游戏"
+msgstr "Click to leave the game"
+
+#: menu.py:534
+msgid "欢迎您，新玩家！"
+msgstr "Hello, welcome to the new world!"
+
+#: menu.py:534
+msgid "在开始游戏之前，我们认为您需要一些教程"
+msgstr "Before you start the game, we think you need a few tutorials"
+
+#: menu.py:536
+msgid "这里是战场，您可以在这里匹配对手"
+msgstr "Here's the battlefield, and you can click to start a battle"
+
+#: menu.py:576
+msgid "无日志记录"
+msgstr "Log not found"
+
+#: units.py:63
+msgid "攻城弩只能攻击较远的目标"
+msgstr "Siege Crossbows can only attack distant targets"
+
+#: units.py:65
+msgid "攻城弩"
+msgstr "Siege Crossbow"
+
+#: units.py:74
+msgid "弓箭手可以远程攻击目标"
+msgstr "Archers can attack targets from a distance"
+
+#: units.py:76
+msgid "弓箭手"
+msgstr "Archer"
+
+#: units.py:98
+msgid "加农炮可以发射炮弹，炸到多路的目标"
+msgstr "Cannons can fire shells that hit multiple targets"
+
+#: units.py:100
+msgid "加农炮"
+msgstr "Cannon"
+
+#: units.py:111
+msgid "黄金加农炮是加农炮的升级版，攻速更快，但不能攻击较近目标"
+msgstr ""
+"Golden Cannon is the updated version of the cannon, which has a faster "
+"attack rate but cannot hit close targets"
+
+#: units.py:113
+msgid "黄金加农炮"
+msgstr "Golden Cannon"
+
+#: units.py:125
+msgid "投石车只能攻击较远的目标，但投出的石块可以伤害多个目标"
+msgstr ""
+"Trebuchets can only attack distant targets, but the stones thrown can damage "
+"multiple targets"
+
+#: units.py:127
+msgid "投石车"
+msgstr "Trebuchet"
+
+#: units.py:136
+msgid "弩兵攻速极快"
+msgstr "Crossbowmen attack with great speed"
+
+#: units.py:138
+msgid "弩兵"
+msgstr "Crossbowman"
+
+#: units.py:146
+msgid "火焰魔龙可以灼伤多个目标，死后会掉落燃烧法术"
+msgstr ""
+"Flame Dragons can burn multiple targets and cast a burning spell when it dies"
+
+#: units.py:148
+msgid "火焰魔龙"
+msgstr "Flame Dragon"
+
+#: units.py:161
+msgid "超级士兵每次可以攻击2个目标，且伤害可以累加（伤害+60为上限）"
+msgstr ""
+"Super Infantries can attack 2 targets at a time, and damage can accumulate "
+"(+60 damage Max)"
+
+#: units.py:163
+msgid "超级士兵"
+msgstr "Super Infantry"
+
+#: units.py:176
+msgid "象兵可以反弹一部分近战伤害，有概率反弹远程攻击"
+msgstr ""
+"Barbarian Elephant Infantries can bounce some melee damage and has a chance "
+"to bounce ranged attacks"
+
+#: units.py:178
+msgid "野蛮象兵"
+msgstr "Barbarian Elephant Rider"
+
+#: units.py:207
+msgid "长矛战兵可以同时攻击2个敌人"
+msgstr "Spearmen can attack 2 enemies at once"
+
+#: units.py:209
+msgid "长矛战兵"
+msgstr "Spearman"
+
+#: units.py:218
+msgid "能量精灵攻击时有概率会产生1点能量"
+msgstr "Energy Sprites have a chance to generate 1 energy when attacking"
+
+#: units.py:219
+msgid "复苏神术"
+msgstr "Revive"
+
+#: units.py:219
+msgid "补满当前能量"
+msgstr "Replenish current energy"
+
+#: units.py:221
+msgid "能量精灵"
+msgstr "Energy Sprite"
+
+#: units.py:238
+msgid "寒冰法师可以冻结敌人"
+msgstr "Ice Mages can freeze enemies"
+
+#: units.py:239
+msgid "天寒地冻"
+msgstr "Freeeeeze"
+
+#: units.py:239
+msgid "冰冻所有敌方士兵，持续10秒"
+msgstr "Freeze all enemy soldiers for 10 seconds"
+
+#: units.py:241
+msgid "寒冰法师"
+msgstr "Ice Mage"
+
+#: units.py:264
+msgid "傀儡石怪死后会变成一个较小石怪，伤害和血量为原来的一半"
+msgstr ""
+"Golem becomes a smaller one after death, with half the damage and health"
+
+#: units.py:265
+msgid "锁链打击"
+msgstr "Damage Chain"
+
+#: units.py:265
+msgid "使己方士兵伤害增加，己方士兵越多增幅越大"
+msgstr "The more soldiers you have, the more damage you do"
+
+#: units.py:267
+msgid "傀儡石怪"
+msgstr "Golem"
+
+#: units.py:310
+msgid "轻骑兵中的精锐"
+msgstr "The excellent ones from Light Cavalries"
+
+#: units.py:312
+msgid "轻骑兵精锐"
+msgstr "Elite Light Cavalry"
+
+#: units.py:337
+msgid "轻骑兵冲击敌人时造成大量伤害"
+msgstr "Light Cavalries can do a lot of damage when they charge the enemy"
+
+#: units.py:339
+msgid "轻骑兵"
+msgstr "Light Cavalry"
+
+#: units.py:364
+msgid "刺客行动速度极快，冲撞敌人时产生眩晕效果"
+msgstr ""
+"Assassins are extremely fast, and they stun enemies when they bump into them"
+
+#: units.py:366
+msgid "刺客"
+msgstr "Assassin"
+
+#: units.py:389
+msgid "雷电法师会对敌人造成穿透伤害，并且可以造成眩晕效果"
+msgstr ""
+"Lightning Mages deal penetrating damage to enemies and can also cause stun"
+
+#: units.py:391
+msgid "雷电法师"
+msgstr "Lightning Mage"
+
+#: units.py:412
+msgid "流星锤武士攻击时有概率击晕敌人"
+msgstr "Meteor Hammer Warriors have a chance to stun enemies when attacking"
+
+#: units.py:414
+msgid "流星锤武士"
+msgstr "Meteor Hammer Warrior"
+
+#: units.py:425
+msgid "牛头怪力量强大，每次攻击有概率暴击，伤害翻倍"
+msgstr ""
+"Minotaur is powerful, every attack has a chance of critical hit, damage "
+"doubled"
+
+#: units.py:427
+msgid "牛头怪"
+msgstr "Minotaur"
+
+#: units.py:438
+msgid "五行战士可以射出不同效果的光束，起到伤害、治疗、迟钝、减防的效果"
+msgstr ""
+"5E Mage can shoot with 5 kinds of elements, with different effects of light "
+"beam, to damage, heal, retard or reduce the effect of defense"
+
+#: units.py:440
+msgid "五行战士"
+msgstr "5E Mage"
+
+#: units.py:482
+msgid "国王在攻击时会定期召唤一位骷髅战兵"
+msgstr "The King periodically summons a skeleton soldier"
+
+#: units.py:483
+msgid "军团降临"
+msgstr "Legion Arrival"
+
+#: units.py:483
+msgid "召唤2排骷髅战兵和1排弓箭手，且移动速度大幅提升"
+msgstr ""
+"Summon 2 rows of skull soldiers and 1 row of skull archers, and move faster"
+
+#: units.py:485
+msgid "国王"
+msgstr "King"
+
+#: units.py:506
+msgid "盾兵有概率免疫伤害"
+msgstr "Shield Infantries have a chance of immune damage"
+
+#: units.py:508
+msgid "盾兵"
+msgstr "Shield Infantry"
+
+#: units.py:522
+msgid "狂暴主宰伤害较高，死后会掉落狂暴法术"
+msgstr "Berserkers do high damage and drop Rage spells after death"
+
+#: units.py:523
+msgid "永恒狂暴"
+msgstr "Eternal Rage"
+
+#: units.py:523
+msgid "使己方士兵永久处于狂暴状态"
+msgstr "Put your own soldiers in a permanent state of rage"
+
+#: units.py:525
+msgid "狂暴主宰"
+msgstr "Berserker"
+
+#: units.py:576
+msgid "普普通通的士兵"
+msgstr "Very normal"
+
+#: units.py:578
+msgid "战兵"
+msgstr "Infantry"
+
+#: units.py:581
+msgid "飓风法师召唤的飓风对敌兵造成一定伤害，同时可以治疗己方的士兵"
+msgstr ""
+"Hurricane Mage summons a number of hurricanes, dealing damage to enemy "
+"soldiers while healing his own"
+
+#: units.py:583
+msgid "飓风法师"
+msgstr "Hurricane Mage"
+
+#: units.py:597
+msgid "杀死的目标会成为亡魂，供己方作战"
+msgstr "Zombies turn their targets into wraith after killing them"
+
+#: units.py:599
+msgid "僵尸"
+msgstr "Zombie"
+
+#: units.py:612
+msgid "造成较高的伤害，同时产生眩晕"
+msgstr "Deal high damage and vertigo"
+
+#: units.py:614
+msgid "霹雳弹"
+msgstr "Thunder Bomb"
+
+#: units.py:624
+msgid "克隆范围内的士兵，但是克隆后的士兵血量较低"
+msgstr "Clone soldiers in range, but with lower health"
+
+#: units.py:626
+msgid "克隆法术"
+msgstr "Clone"
+
+#: units.py:641
+msgid "对范围内敌人造成持续伤害"
+msgstr "Deal sustained damage and slow down to enemies in range"
+
+#: units.py:643
+msgid "燃烧法术"
+msgstr "Flame"
+
+#: units.py:656
+msgid "使范围内敌人被冻住，无法移动或攻击"
+msgstr "Freeze enemies in range so they cannot move or attack"
+
+#: units.py:658
+msgid "冰冻法术"
+msgstr "Freeze"
+
+#: units.py:673
+msgid "打断敌人的行动并造成较小伤害"
+msgstr "Interrupt enemies' movement and deal a little damage"
+
+#: units.py:675
+msgid "闪电法术"
+msgstr "Lightning"
+
+#: units.py:688
+msgid "使范围内敌人被飓风卷到中心"
+msgstr ""
+"Causing the enemies in range to be gathered into the center by the hurricane"
+
+#: units.py:690
+msgid "飓风法术"
+msgstr "Hurricane"
+
+#: units.py:710
+msgid "使己方士兵移动和攻击速度加快"
+msgstr "Make your soldiers move and attack faster"
+
+#: units.py:712
+msgid "狂暴法术"
+msgstr "Rage"
+
+#: units.py:726
+msgid "对己方士兵产生治疗效果"
+msgstr "Restore some health to your soldiers"
+
+#: units.py:728
+msgid "治疗法术"
+msgstr "Treat"
