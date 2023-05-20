@@ -40,6 +40,6 @@ This game plans to update more powerful AI in the later stage.  If you are good 
 
 ![img](https://github.com/Python-ZZY/Endless-War/blob/master/screenshots/1.png)
 
-![img][https://github.com/Python-ZZY/Endless-War/blob/master/screenshots/2.png)
+![img](https://github.com/Python-ZZY/Endless-War/blob/master/screenshots/2.png)
 
-![img[(https://github.com/Python-ZZY/Endless-War/blob/master/screenshots/3.png)
+![img](https://github.com/Python-ZZY/Endless-War/blob/master/screenshots/3.png)
