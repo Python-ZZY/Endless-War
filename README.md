@@ -36,7 +36,7 @@ This game plans to update more powerful AI in the later stage.  If you are good 
 
 ## Screenshots 游戏截图
 
-![Image](https://gitee.com/python_zzy/endless-war/blob/master/screenshots/0.png)
-![Image](https://gitee.com/python_zzy/endless-war/blob/master/screenshots/1.png)
-![Image](https://gitee.com/python_zzy/endless-war/blob/master/screenshots/2.png)
-![Image](https://gitee.com/python_zzy/endless-war/blob/master/screenshots/3.png)
+![Image](https://github.com/python_zzy/endless-war/blob/master/screenshots/0.png)
+![Image](https://github.com/python_zzy/endless-war/blob/master/screenshots/1.png)
+![Image](https://github.com/python_zzy/endless-war/blob/master/screenshots/2.png)
+![Image](https://github.com/python_zzy/endless-war/blob/master/screenshots/3.png)
